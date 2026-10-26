@@ -1,0 +1,6 @@
+{
+  "name": "MMO VN - Nền Tảng Kiếm Tiền Online Uy Tín",
+  "description": "Website làm nhiệm vụ kiếm tiền online: xem quảng cáo PTC, làm khảo sát thị trường nhận thưởng, điểm danh hằng ngày và rút tiền siêu tốc về MoMo, Ngân hàng, Thẻ cào.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
